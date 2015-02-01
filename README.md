@@ -9,3 +9,4 @@
 * [ARROW FUNCTIONS AND THEIR SCOPE — es6rocks.com](http://es6rocks.com/2014/10/arrow-functions-and-their-scope/)
 * [Arrow functions — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 * [Arrow Functions — TC39 Wiki](http://tc39wiki.calculist.org/es6/arrow-functions/)
+* [Стрелочные функции (Arrow functions) в ECMAScript 6 (ru) — habrahabr.ru](http://habrahabr.ru/company/mailru/blog/213455/)
