@@ -20,3 +20,8 @@
 * [Diving Deeper With ES6 Generators — davidwalsh.name](http://davidwalsh.name/es6-generators-dive)
 * [Going Async With ES6 Generators — davidwalsh.name](http://davidwalsh.name/async-generators)
 * [Getting Concurrent With ES6 Generators — davidwalsh.name](http://davidwalsh.name/concurrent-generators)
+
+## ES6 (2015) SLIDES
+
+* [EcmaScript 6 - the future is here](https://speakerdeck.com/sebarmeli/ecmascript-6-the-future-is-here)
+* [JAVASCRIPT NEXT ES6 HARMONY](http://sankhs.com/jschannel-es6/#/)
