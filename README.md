@@ -12,6 +12,7 @@
 * [Стрелочные функции (Arrow functions) в ECMAScript 6 (ru) — habrahabr.ru](http://habrahabr.ru/company/mailru/blog/213455/)
 
 ### Destructuring
+* [Destructuring and parameter handling in ECMAScript 6 — www.2ality.com](http://www.2ality.com/2015/01/es6-destructuring.html)
 * [Multiple return values in ECMAScript 6 — www.2ality.com](http://www.2ality.com/2014/06/es6-multiple-return-values.html)
 * [Destructuring Assignment in ECMAScript 6 — fitzgeraldnick.com](http://fitzgeraldnick.com/weblog/50/)
 
