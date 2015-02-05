@@ -22,6 +22,9 @@
 * [Going Async With ES6 Generators — davidwalsh.name](http://davidwalsh.name/async-generators)
 * [Getting Concurrent With ES6 Generators — davidwalsh.name](http://davidwalsh.name/concurrent-generators)
 
+### Proxies:
+[Meta programming with ECMAScript 6 proxies — www.2ality.com](http://www.2ality.com/2014/12/es6-proxies.html)
+
 ## ES6 (2015) SLIDES
 
 * [EcmaScript 6 - the future is here](https://speakerdeck.com/sebarmeli/ecmascript-6-the-future-is-here)
