@@ -23,9 +23,13 @@
 * [Getting Concurrent With ES6 Generators — davidwalsh.name](http://davidwalsh.name/concurrent-generators)
 
 ### Proxies:
-[Meta programming with ECMAScript 6 proxies — www.2ality.com](http://www.2ality.com/2014/12/es6-proxies.html)
+* [Meta programming with ECMAScript 6 proxies — www.2ality.com](http://www.2ality.com/2014/12/es6-proxies.html)
 
 ## ES6 (2015) SLIDES
 
 * [EcmaScript 6 - the future is here](https://speakerdeck.com/sebarmeli/ecmascript-6-the-future-is-here)
 * [JAVASCRIPT NEXT ES6 HARMONY](http://sankhs.com/jschannel-es6/#/)
+
+## ES7 VIDEO
+
+* [Netflix JavaScript Talks - Version 7: The Evolution of JavaScript](http://www.youtube.com/watch?v=DqMFX91ToLw&list=WL&index=218)
