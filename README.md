@@ -30,6 +30,10 @@
 * [EcmaScript 6 - the future is here](https://speakerdeck.com/sebarmeli/ecmascript-6-the-future-is-here)
 * [JAVASCRIPT NEXT ES6 HARMONY](http://sankhs.com/jschannel-es6/#/)
 
+## ES6 (2015) VIDEO
+
+* [Axel Rauschmayer - ECMAScript 6: what's next for JavaScript?](http://www.youtube.com/watch?v=G21rdWfa_as)
+
 ## ES7 VIDEO
 
 * [Netflix JavaScript Talks - Version 7: The Evolution of JavaScript](http://www.youtube.com/watch?v=DqMFX91ToLw&list=WL&index=218)
