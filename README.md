@@ -25,6 +25,9 @@
 ### Proxies:
 * [Meta programming with ECMAScript 6 proxies — www.2ality.com](http://www.2ality.com/2014/12/es6-proxies.html)
 
+### Strings:
+* [New string features in ECMAScript 6 — www.2ality.com](http://www.2ality.com/2015/01/es6-strings.html)
+
 ## ES6 (2015) SLIDES
 
 * [EcmaScript 6 - the future is here](https://speakerdeck.com/sebarmeli/ecmascript-6-the-future-is-here)
