@@ -13,6 +13,7 @@
 * [Destructuring and parameter handling in ECMAScript 6 — www.2ality.com](http://www.2ality.com/2015/01/es6-destructuring.html)
 * [Multiple return values in ECMAScript 6 — www.2ality.com](http://www.2ality.com/2014/06/es6-multiple-return-values.html)
 * [Destructuring Assignment in ECMAScript 6 — fitzgeraldnick.com](http://fitzgeraldnick.com/weblog/50/)
+* [The destructuring algorithm in ECMAScript 6 — www.2ality.com](http://www.2ality.com/2015/03/destructuring-algorithm.html)
 
 #### Generators:
 * [The Basics Of ES6 Generators — davidwalsh.name](http://davidwalsh.name/es6-generators)
