@@ -36,6 +36,10 @@
 
 * [Axel Rauschmayer - ECMAScript 6: what's next for JavaScript?](http://www.youtube.com/watch?v=G21rdWfa_as)
 
+### BOOKS
+
+* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
+
 ## ES7
 
 #### VIDEOS
