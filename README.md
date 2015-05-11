@@ -45,3 +45,9 @@
 #### VIDEOS
 
 * [Netflix JavaScript Talks - Version 7: The Evolution of JavaScript](http://www.youtube.com/watch?v=DqMFX91ToLw&list=WL&index=218)
+
+## Tools
+
+#### Transpilers
+
+* [Babel](https://babeljs.io/)
