@@ -40,6 +40,9 @@
 
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
 
+### OTHER
+* [ES6 Katas](http://es6katas.org/)
+
 ## ES7
 
 #### VIDEOS
