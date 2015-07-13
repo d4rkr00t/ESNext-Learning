@@ -45,6 +45,9 @@
 
 ## ES7
 
+#### Decorators
+[Addy Osmani — Exploring ES2016 Decorators (medium.com)](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841)
+
 #### VIDEOS
 
 * [Netflix JavaScript Talks - Version 7: The Evolution of JavaScript](http://www.youtube.com/watch?v=DqMFX91ToLw&list=WL&index=218)
