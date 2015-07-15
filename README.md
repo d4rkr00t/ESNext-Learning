@@ -42,6 +42,7 @@
 
 #### OTHER
 * [ES6 Katas](http://es6katas.org/)
+* [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org)
 
 ## ES7
 
