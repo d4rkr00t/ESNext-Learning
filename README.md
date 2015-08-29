@@ -43,7 +43,7 @@
 #### OTHER
 * [ES6 Katas](http://es6katas.org/)
 * [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org)
-* [ES6 VS ES5 performace](http://kpdecker.github.io/six-speed/)
+* [ES6 VS ES5 performance](http://kpdecker.github.io/six-speed/)
 
 ## ES7
 
