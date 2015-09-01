@@ -27,7 +27,7 @@
 #### Strings:
 * [New string features in ECMAScript 6 — www.2ality.com](http://www.2ality.com/2015/01/es6-strings.html)
 
-### Regular Expressions:
+#### Regular Expressions:
 * [New regular expression features in ECMAScript 6 — www.2ality.com](http://www.2ality.com/2015/07/regexp-es6.html)
 
 #### SLIDES
