@@ -29,6 +29,7 @@
 
 #### Regular Expressions:
 * [New regular expression features in ECMAScript 6 — www.2ality.com](http://www.2ality.com/2015/07/regexp-es6.html)
+* [Mathias Bynens: RegExp.prototype.unicode — youtube.com](http://www.youtube.com/watch?v=raJcug_vW0c&list=WL&index=163)
 
 #### SLIDES
 
